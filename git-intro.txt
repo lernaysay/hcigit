@@ -1,0 +1,1 @@
+Git enables teamwork through branches,commits,and merges,keeping code organized.
